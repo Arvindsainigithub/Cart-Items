@@ -1,0 +1,42 @@
+.count {
+  border-radius: 50%;
+  background-color: rgb(70, 186, 70);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8rem;
+}
+.CartValue {
+  position: absolute;
+  font-size: 1.5rem;
+}
+.spanValue {
+  position: absolute;
+  top: -5px;
+  right: 0px;
+  height: 15px;
+  width: 15px;
+}
+.Navbar{
+    height: 60px;
+}
+.NavBar{
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    width: 100px;
+}
+.Header{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.decoration{
+    text-decoration: none;
+}
+.Mall{
+    color: white;
+    
+}
+
+
+
