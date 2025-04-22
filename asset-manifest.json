@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Arvindsainigithub/Cart-Items/static/css/main.e45135b6.css",
+    "main.js": "/Arvindsainigithub/Cart-Items/static/js/main.0b05e4fd.js",
+    "index.html": "/Arvindsainigithub/Cart-Items/index.html",
+    "main.e45135b6.css.map": "/Arvindsainigithub/Cart-Items/static/css/main.e45135b6.css.map",
+    "main.0b05e4fd.js.map": "/Arvindsainigithub/Cart-Items/static/js/main.0b05e4fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45135b6.css",
+    "static/js/main.0b05e4fd.js"
+  ]
+}
